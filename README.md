@@ -12,9 +12,11 @@ This entire project was live coded on August 21st 2023 and will be further fine-
 The 10x-Git-Buddy will keep fixing files until you accept a solution. Also it will attempt to fix various related APIs from the documentation. This is highly experimental and is an MVP for a more comprehensive solution that will be worked on in the upcoming weeks.
 
 Example (running):
+
 ![Screen Shot 2023-08-22 at 4 50 27 AM](https://github.com/jawerty/10x-Git-Buddy/assets/1999719/586d41b5-bbe6-4901-b31d-80e62560f22f)
 
 Example (response):
+
 ![Screen Shot 2023-08-22 at 4 50 02 AM](https://github.com/jawerty/10x-Git-Buddy/assets/1999719/dde6d28d-db0e-4ac7-91dc-dc9ab3af5824)
 
 # How to use it
